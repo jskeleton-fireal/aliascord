@@ -1,0 +1,14 @@
+/**
+ * @name aliascord
+ * @author jskeleton
+ * @description discord but with aliased fonts? holy schmoly!
+ * @website https://github.com/jskeleton-fireal/aliascord
+*/
+:root{
+--font-primary: 'Tahoma';
+--font-display: 'Trebuchet MS';
+}
+*
+{
+	font-family: 'Verdana';
+}
